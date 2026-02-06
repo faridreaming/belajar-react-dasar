@@ -1,10 +1,12 @@
-import { StrictMode } from "react";
-import { createRoot } from "react-dom/client";
-import HelloWorld from "./HelloWorld";
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import HelloWorld from './HelloWorld'
+import Container from './Container'
 
-createRoot(document.getElementById('root'))
-  .render(
-    <StrictMode>
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <Container>
       <HelloWorld />
-    </StrictMode>
-  )
+    </Container>
+  </StrictMode>,
+)

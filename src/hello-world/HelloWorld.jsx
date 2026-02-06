@@ -1,14 +1,16 @@
 export default function HelloWorld() {
+  const props = {
+    text: 'Hello, World!',
+  }
   return (
     <div>
-      <HeaderHelloWorld />
+      <HeaderHelloWorld {...props} />
       <ParagraphHelloWorld />
     </div>
   )
 }
 
-function HeaderHelloWorld() {
-  const text = 'Hello World'
+function HeaderHelloWorld({ text = 'mf, ak lp ngsh txt 🥺' }) {
   return (
     <h1
       style={{
