@@ -12,6 +12,7 @@ export default defineConfig({
         contact: 'contact.html',
         tast: 'task.html',
         counter: 'counter.html',
+        note: 'note.html',
       },
     },
   },
