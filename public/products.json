@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 25.99
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 79.99
+  },
+  {
+    "id": 3,
+    "name": "HD Monitor",
+    "price": 199.99
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub",
+    "price": 49.99
+  },
+  {
+    "id": 5,
+    "name": "External Hard Drive",
+    "price": 89.99
+  },
+  {
+    "id": 6,
+    "name": "Webcam",
+    "price": 59.99
+  },
+  {
+    "id": 7,
+    "name": "Gaming Chair",
+    "price": 149.99
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Speaker",
+    "price": 39.99
+  },
+  {
+    "id": 9,
+    "name": "Smartphone Stand",
+    "price": 19.99
+  },
+  {
+    "id": 10,
+    "name": "Laptop Sleeve",
+    "price": 29.99
+  }
+]
